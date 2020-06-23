@@ -1,0 +1,6 @@
+{{ Ends here }}
+"""
+Copy to Clipboard
+"""
+uploadsview.class.php : line63  -> class uploadsview->displayUploads 
+uploadsview.class.php : line162 -> class uploadsview->displayUploads

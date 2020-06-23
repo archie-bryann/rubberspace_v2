@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Disallow:/alertMsg
+Disallow:/archieUploads
+Disallow:/classes
+Disallow:/extras
+Disallow:/img
+Disallow:/includes
+Disallow:/public
+Disallow:/redirect
+Disallow:angel.php
+
+Disallow:delete.php
+Disallow:erase.php
+Disallow:upload_request.php
+Disallow:profile_upload_request.php
+Disallow:visibility.php
+Disallow:verify.php
+Disallow:toggle_colour.php
+Disallow:resend.php
+
+
+sitemap:

@@ -1,0 +1,11 @@
+RewriteEngine On
+
+php_value upload_max_filesize 1.5G
+php_value post_max_size 1.5G
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_FILENAME}% !-f 
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ErrorDocument 404 https://rubberspace.space/404.php

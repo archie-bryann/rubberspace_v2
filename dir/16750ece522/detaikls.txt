@@ -1,0 +1,33 @@
+*Home {{ See more }} {{ About Us + Ads + Products }<Homepage>}
+*products + *Search products {{ Loves || love button }}
+*{{ Ads by the side }}
+*Create page {{  Products & Ads }}
+*Edit page {{  Products & Ads }}
+*product-detail page
+*About Us 
+*Contact Us
+*Terms & Conditions || *Privacy Policy    <{13}>
+*Ask her for her socials::: 
+{{ Footer: Email Subscribe
+More: 
+    fixed-action-btn: Chat->whatsapp
+ }}
+{{ Does she need a blog?** }}
+
+
+
+---Price: 
+	  Website Design & Development: {{ 
+					
+					}}
+	  Hosting {{ 
+		  -- ask her, which will be more comfortable. --	
+		  }}
+
+{{  }}
+
+
+90, 000
+
+*5,000 domain
+*9, 500 for hosting

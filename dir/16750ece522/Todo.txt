@@ -1,0 +1,17 @@
+-----------OFFLINE
+# create api for sending otp to an email {{ For forgotten password }}
+-----ONLINE
+-> Build pdf reader+tutorial, block a link, Copy link
+**terms & privacy when online (rubberspace)
+*retry {{ electron.js  }} --
+** send an email with data
+**capacitor for a particulat r project (myCapacitorProject)
+**Electon.js Tutorial
+**CSS Crash + JS Crash Course + Animation with CSS & JS
+*erlang
+**Java VSCode Plugin
+**{{ Deploy a simple django project with DB }}
+**{{ Finish & Deploy RubberSpace Notes }}
+**Anaconda navigator+jupyter
+-----------------
+*dis kind love

@@ -1,0 +1,28 @@
+MP3 - MPEG-1 Audio Layer 3
+M4A - MPEG 4 Audio
+PCM - Pulse-Code Modulation
+WAV - Waveform Audio File Format
+AIFF - Audio Interchange File Format
+
+AAC - Advanced Audio Coding
+OGG(Vorbis)
+WMA - Windows Media Audio
+FLAC - Free Lossless Audio Codec
+ALAC - Apple Lossless Audio Codec
+WMA - Windows Media Audio
+
+
+
+
+
+
+
+APK - Android Application Package
+XAPK - Android Application Package 
+IPA - Ios App Store Package
+
+
+RAR - Roshal Archive
+RAR4 - Roshal ARchive format version 4
+ZIP - PKzip file name extension
+7Z - 7z zip file
